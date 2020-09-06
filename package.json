@@ -1,0 +1,16 @@
+{
+  "name": "chat-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "push": "git push https://heroku:b64174e2-0dea-4292-8b80-8b3fa4715b7a@git.heroku.com/i-chat-server.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
